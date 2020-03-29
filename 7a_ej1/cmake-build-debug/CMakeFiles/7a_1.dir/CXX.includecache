@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/7a_1/funciones.h
+iostream
+-
+vector
+-
+
+C:/Users/J/CLionProjects/7a_1/main.cpp
+funciones.h
+C:/Users/J/CLionProjects/7a_1/funciones.h
+

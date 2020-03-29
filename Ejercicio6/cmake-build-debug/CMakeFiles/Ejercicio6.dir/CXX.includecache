@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/Ejercicio6/funciones.h
+iostream
+-
+string
+-
+
+C:/Users/J/CLionProjects/Ejercicio6/main.cpp
+iostream
+-
+funciones.h
+C:/Users/J/CLionProjects/Ejercicio6/funciones.h
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Clases_Formas"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Clases_Formas">
+				<Option output="C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Clases_Formas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Clases_Formas"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Clases_Formas/fast">
+				<Option output="C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Clases_Formas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 Clases_Formas/fast"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/J/CLionProjects/Clases_Formas/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/Circulo.h">
+			<Option target="Clases_Formas"/>
+		</Unit>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/Forma.h">
+			<Option target="Clases_Formas"/>
+		</Unit>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/Lienzo.h">
+			<Option target="Clases_Formas"/>
+		</Unit>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/Punto.h">
+			<Option target="Clases_Formas"/>
+		</Unit>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/Rectangulo.h">
+			<Option target="Clases_Formas"/>
+		</Unit>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/Triangulo.h">
+			<Option target="Clases_Formas"/>
+		</Unit>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/funciones.h">
+			<Option target="Clases_Formas"/>
+		</Unit>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/main.cpp">
+			<Option target="Clases_Formas"/>
+		</Unit>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/tipos.h">
+			<Option target="Clases_Formas"/>
+		</Unit>
+		<Unit filename="C:/Users/J/CLionProjects/Clases_Formas/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

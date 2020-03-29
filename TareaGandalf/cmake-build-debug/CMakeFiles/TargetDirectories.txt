@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/TareaGandalf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/J/CLionProjects/TareaGandalf/cmake-build-debug/CMakeFiles/TareaGandalf.dir
+C:/Users/J/CLionProjects/TareaGandalf/cmake-build-debug/CMakeFiles/edit_cache.dir

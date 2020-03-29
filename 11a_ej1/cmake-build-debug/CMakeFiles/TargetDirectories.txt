@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/11a_ej1/cmake-build-debug/CMakeFiles/11a_ej1.dir
+C:/Users/J/CLionProjects/11a_ej1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/J/CLionProjects/11a_ej1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

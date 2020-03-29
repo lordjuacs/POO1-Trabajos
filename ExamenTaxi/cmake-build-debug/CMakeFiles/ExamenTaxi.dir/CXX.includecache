@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/ExamenTaxi/ServicioTaxi.h
+iostream
+-
+utility
+-
+Taxi.h
+C:/Users/J/CLionProjects/ExamenTaxi/Taxi.h
+
+C:/Users/J/CLionProjects/ExamenTaxi/Taxi.h
+iostream
+-
+vector
+-
+
+C:/Users/J/CLionProjects/ExamenTaxi/main.cpp
+iostream
+-
+vector
+-
+ServicioTaxi.h
+C:/Users/J/CLionProjects/ExamenTaxi/ServicioTaxi.h
+

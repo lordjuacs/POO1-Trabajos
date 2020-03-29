@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/6b_2/funciones.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+vector
+-
+string
+-
+
+C:/Users/J/CLionProjects/6b_2/main.cpp
+funciones.h
+C:/Users/J/CLionProjects/6b_2/funciones.h
+

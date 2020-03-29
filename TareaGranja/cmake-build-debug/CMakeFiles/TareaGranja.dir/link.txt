@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\TareaGranja.dir/objects.a
+C:\Mingw-w64\mingw32\bin\ar.exe cr CMakeFiles\TareaGranja.dir/objects.a @CMakeFiles\TareaGranja.dir\objects1.rsp
+C:\Mingw-w64\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TareaGranja.dir/objects.a -Wl,--no-whole-archive  -o TareaGranja.exe -Wl,--out-implib,libTareaGranja.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TareaGranja.dir\linklibs.rsp

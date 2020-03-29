@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/8a_teoria/Cperro.h
+iostream
+-
+string
+-
+
+C:/Users/J/CLionProjects/8a_teoria/main.cpp
+Cperro.h
+C:/Users/J/CLionProjects/8a_teoria/Cperro.h
+

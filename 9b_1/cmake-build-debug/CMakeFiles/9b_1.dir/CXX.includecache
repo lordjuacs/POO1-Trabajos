@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/9b_1/CAlumno.cpp
+CAlumno.h
+C:/Users/J/CLionProjects/9b_1/CAlumno.h
+
+C:/Users/J/CLionProjects/9b_1/CAlumno.h
+tipos.h
+C:/Users/J/CLionProjects/9b_1/tipos.h
+
+C:/Users/J/CLionProjects/9b_1/CProfesor.cpp
+CProfesor.h
+C:/Users/J/CLionProjects/9b_1/CProfesor.h
+
+C:/Users/J/CLionProjects/9b_1/CProfesor.h
+tipos.h
+C:/Users/J/CLionProjects/9b_1/tipos.h
+
+C:/Users/J/CLionProjects/9b_1/Funciones.h
+iostream
+-
+CAlumno.h
+C:/Users/J/CLionProjects/9b_1/CAlumno.h
+CProfesor.h
+C:/Users/J/CLionProjects/9b_1/CProfesor.h
+
+C:/Users/J/CLionProjects/9b_1/main.cpp
+Funciones.h
+C:/Users/J/CLionProjects/9b_1/Funciones.h
+
+C:/Users/J/CLionProjects/9b_1/tipos.h
+iostream
+-
+string
+-
+

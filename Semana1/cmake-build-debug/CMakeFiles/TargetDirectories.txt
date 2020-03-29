@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/Semana1/cmake-build-debug/CMakeFiles/Semana1.dir
+C:/Users/J/CLionProjects/Semana1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/J/CLionProjects/Semana1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

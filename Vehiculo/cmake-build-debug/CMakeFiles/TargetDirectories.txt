@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/Vehiculo/cmake-build-debug/CMakeFiles/Vehiculo.dir
+C:/Users/J/CLionProjects/Vehiculo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/J/CLionProjects/Vehiculo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\TareaGandalf.dir/objects.a
+C:\Mingw-w64\mingw32\bin\ar.exe cr CMakeFiles\TareaGandalf.dir/objects.a @CMakeFiles\TareaGandalf.dir\objects1.rsp
+C:\Mingw-w64\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TareaGandalf.dir/objects.a -Wl,--no-whole-archive  -o TareaGandalf.exe -Wl,--out-implib,libTareaGandalf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TareaGandalf.dir\linklibs.rsp

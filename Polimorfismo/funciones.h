@@ -1,0 +1,8 @@
+//
+// Created by J on 04-Oct-19.
+//
+
+#ifndef POLIMORFISMO_FUNCIONES_H
+#define POLIMORFISMO_FUNCIONES_H
+
+#endif //POLIMORFISMO_FUNCIONES_H

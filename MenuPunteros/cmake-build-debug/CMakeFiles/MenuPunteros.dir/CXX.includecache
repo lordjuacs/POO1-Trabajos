@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/MenuPunteros/funciones.cpp
+iostream
+-
+
+C:/Users/J/CLionProjects/MenuPunteros/funciones.h
+funciones.cpp
+C:/Users/J/CLionProjects/MenuPunteros/funciones.cpp
+
+C:/Users/J/CLionProjects/MenuPunteros/main.cpp
+funciones.h
+C:/Users/J/CLionProjects/MenuPunteros/funciones.h
+

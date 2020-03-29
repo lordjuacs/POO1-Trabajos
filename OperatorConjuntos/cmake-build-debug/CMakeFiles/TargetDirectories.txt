@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/POOI/OperatorConjuntos/cmake-build-debug/CMakeFiles/OperatorConjuntos.dir
+C:/Users/J/CLionProjects/POOI/OperatorConjuntos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/J/CLionProjects/POOI/OperatorConjuntos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

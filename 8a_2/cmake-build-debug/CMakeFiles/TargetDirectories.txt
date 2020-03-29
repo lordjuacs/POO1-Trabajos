@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/8a_2/cmake-build-debug/CMakeFiles/8a_2.dir
+C:/Users/J/CLionProjects/8a_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/J/CLionProjects/8a_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

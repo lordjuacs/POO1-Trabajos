@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/13_RevisarDigitos/cmake-build-debug/CMakeFiles/13_RevisarDigitos.dir
+C:/Users/J/CLionProjects/13_RevisarDigitos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/J/CLionProjects/13_RevisarDigitos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/Vehiculo/CBote.h
+CVehiculo.h
+C:/Users/J/CLionProjects/Vehiculo/CVehiculo.h
+iostream
+-
+
+C:/Users/J/CLionProjects/Vehiculo/CCarro.h
+iostream
+-
+CVehiculo.h
+C:/Users/J/CLionProjects/Vehiculo/CVehiculo.h
+
+C:/Users/J/CLionProjects/Vehiculo/CVehiculo.h
+iostream
+-
+string
+-
+
+C:/Users/J/CLionProjects/Vehiculo/main.cpp
+iostream
+-
+CVehiculo.h
+C:/Users/J/CLionProjects/Vehiculo/CVehiculo.h
+CCarro.h
+C:/Users/J/CLionProjects/Vehiculo/CCarro.h
+CBote.h
+C:/Users/J/CLionProjects/Vehiculo/CBote.h
+

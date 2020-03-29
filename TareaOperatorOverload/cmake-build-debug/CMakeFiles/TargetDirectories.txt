@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/POOI/TareaOperatorOverload/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/J/CLionProjects/POOI/TareaOperatorOverload/cmake-build-debug/CMakeFiles/TareaOperatorOverload.dir
+C:/Users/J/CLionProjects/POOI/TareaOperatorOverload/cmake-build-debug/CMakeFiles/rebuild_cache.dir

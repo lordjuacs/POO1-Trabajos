@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/8a_1/CTriangulo.cpp
+CTriangulo.h
+C:/Users/J/CLionProjects/8a_1/CTriangulo.h
+
+C:/Users/J/CLionProjects/8a_1/CTriangulo.h
+iostream
+-
+vector
+-
+
+C:/Users/J/CLionProjects/8a_1/main.cpp
+CTriangulo.h
+C:/Users/J/CLionProjects/8a_1/CTriangulo.h
+

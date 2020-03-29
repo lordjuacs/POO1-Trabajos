@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/Hackerranks1/funciones.h
+iostream
+-
+
+C:/Users/J/CLionProjects/Hackerranks1/main.cpp
+iostream
+-
+funciones.h
+C:/Users/J/CLionProjects/Hackerranks1/funciones.h
+

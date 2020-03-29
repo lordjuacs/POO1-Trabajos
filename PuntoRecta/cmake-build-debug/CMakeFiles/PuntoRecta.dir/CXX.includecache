@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/PuntoRecta/CLinea.cpp
+CLinea.h
+C:/Users/J/CLionProjects/PuntoRecta/CLinea.h
+
+C:/Users/J/CLionProjects/PuntoRecta/CLinea.h
+tipos.h
+C:/Users/J/CLionProjects/PuntoRecta/tipos.h
+
+C:/Users/J/CLionProjects/PuntoRecta/CPunto.cpp
+CPunto.h
+C:/Users/J/CLionProjects/PuntoRecta/CPunto.h
+
+C:/Users/J/CLionProjects/PuntoRecta/CPunto.h
+tipos.h
+C:/Users/J/CLionProjects/PuntoRecta/tipos.h
+CLinea.h
+C:/Users/J/CLionProjects/PuntoRecta/CLinea.h
+
+C:/Users/J/CLionProjects/PuntoRecta/main.cpp
+CLinea.h
+C:/Users/J/CLionProjects/PuntoRecta/CLinea.h
+CPunto.h
+C:/Users/J/CLionProjects/PuntoRecta/CPunto.h
+
+C:/Users/J/CLionProjects/PuntoRecta/tipos.h
+iostream
+-
+cmath
+-
+

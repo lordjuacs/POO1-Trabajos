@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/sumaPuntos/Punto.h
+iostream
+-
+
+C:/Users/J/CLionProjects/sumaPuntos/main.cpp
+iostream
+-
+fstream
+-
+Punto.h
+C:/Users/J/CLionProjects/sumaPuntos/Punto.h
+

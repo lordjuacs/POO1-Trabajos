@@ -1,0 +1,3 @@
+C:/Users/J/CLionProjects/TareaGranja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/J/CLionProjects/TareaGranja/cmake-build-debug/CMakeFiles/TareaGranja.dir
+C:/Users/J/CLionProjects/TareaGranja/cmake-build-debug/CMakeFiles/edit_cache.dir

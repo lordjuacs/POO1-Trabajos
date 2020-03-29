@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/J/CLionProjects/Taxi_Dinamico/funciones.h
+iostream
+-
+
+C:/Users/J/CLionProjects/Taxi_Dinamico/main.cpp
+iostream
+-
+cmath
+-
+funciones.h
+C:/Users/J/CLionProjects/Taxi_Dinamico/funciones.h
+
